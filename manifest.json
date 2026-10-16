@@ -1,0 +1,17 @@
+{
+    "name": "SocialSave",
+    "short_name": "SocialSave",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0B1219",
+    "theme_color": "#0B1219",
+    "description": "Paste a public video link and save it. Public and allowed content only.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        { "src": "icons/Icon-192.png", "sizes": "192x192", "type": "image/png" },
+        { "src": "icons/Icon-512.png", "sizes": "512x512", "type": "image/png" },
+        { "src": "icons/Icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+        { "src": "icons/Icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    ]
+}
